@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    margin: 6em 0 0 0;
+    padding: 0;
+  }
+  
+  div {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  a {
+    display: inline-block;
+    border-radius: 50%;
+  }
+  
+
+  .top {
+    display: inline-block;
+    width: 16em;
+    height: 16em;
+    border: 0.2em solid #333;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    -moz-transform: rotate(195deg);
+    -webkit-transform: rotate(-45deg);
+     transform: rotate(-90deg);
+  }
+  
+  
